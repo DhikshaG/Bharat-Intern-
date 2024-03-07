@@ -1,28 +1,7 @@
-# Bharat-Intern-
-Internship on Data Science 
-<h1 align="center">Hi 👋, I'm DHIKSHA SHRIVRUTHI G</h1>
-<h3 align="center">A passionate Data Scientist/ AI/ML Enthusiast from India</h3>
+SMS - SPAM OR HAM  Classifier :
+Develop a text classification model to
+classify SMS as either spam or non-spam
+using data science techniques in Python.
+Abstract:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhikshag&label=Profile%20views&color=0e75b6&style=flat" alt="dhikshag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhikshag" alt="dhikshag" /></a> </p>
-
-- 🔭 I’m currently working on **AI/ML Model development**
-
-- 🌱 I’m currently learning **Deep Learning with Python and AI Tools**
-
-- 📫 How to reach me **www.linkedin.com/in/dhiksha-shrivruthi-g-93897b258**
-
-- ⚡ Fun fact **Loves to read fiction book**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dhiksha-shrivruthi-g-93897b258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhiksha-shrivruthi-g-93897b258" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhikshag&show_icons=true&locale=en&layout=compact" alt="dhikshag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhikshag&" alt="dhikshag" /></p>
+The classification of Short Message Service (SMS) messages into "ham" (legitimate) or "spam" (unsolicited or unwanted) is a vital task in text classification and communication security. With the widespread use of mobile phones and messaging applications, the need for effective spam detection systems for SMS messages has grown significantly. This task involves developing machine learning models capable of automatically categorizing incoming SMS messages as ham or spam based on their content, linguistic features, and other relevant attributes. The dataset used for SMS spam classification typically comprises a collection of labeled messages, with each message annotated as ham or spam. Various machine learning algorithms, including Naive Bayes, Support Vector Machines (SVM), decision trees, and ensemble methods, are commonly employed for this purpose. These algorithms are trained on a portion of the dataset with known labels and subsequently evaluated on a separate portion to assess their performance using metrics such as accuracy, precision, recall, and F1-score. Successful SMS spam classification models not only assist users in managing their message inboxes more efficiently but also contribute to safeguarding privacy and mitigating security threats related to mobile communication. Furthermore, they provide valuable insights into the characteristics and patterns of spam messages, aiding in the development of more robust and adaptive spam detection techniques. Through the study of ham or spam classification in SMS messages, researchers and practitioners gain valuable insights into machine learning, natural language processing, and communication security, while also addressing real-world challenges in mobile messaging and cybersecurity.
